@@ -5,7 +5,7 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 ### My languages and tools:
 
 <p> 
-  <a href="https://reactjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" style="text-decoration: none !important;" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
   </a> 
   <a href="https://redux.js.org" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
