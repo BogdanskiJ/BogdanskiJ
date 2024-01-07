@@ -27,6 +27,9 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 ## Samples of my work:
 
+[![Static Badge](https://img.shields.io/badge/GitHubPages%20-%20My%20Portfolio-blue?style=flat&logo=github)
+](https://github.com/BogdanskiJ/MyPortfolio)
+[![BogdanskiJ](https://img.shields.io/badge/-My%20portfolio-000000)](https://github.com/BogdanskiJ/MyPortfolio)
 [![BogdanskiJ](https://img.shields.io/badge/-My%20portfolio-000000)](https://github.com/BogdanskiJ/MyPortfolio)
 
 ## Let's stay in touch:
