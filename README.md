@@ -4,15 +4,12 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 ### My languages and tools:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30">](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" target="_blank" rel="noreferrer" width="30" height="30">](https://reactjs.org/)
 
-<p> 
-  <a href="https://reactjs.org/" style="text-decoration: none !important;" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-  </a> 
-  <a href="https://redux.js.org" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> 
-  </a>
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" target="_blank" rel="noreferrer" />](https://redux.js.org)
+ 
+ 
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   </a>
@@ -25,7 +22,7 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
   <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
   </a>
-</p>
+ 
 
 ## Let's stay in touch:
 
