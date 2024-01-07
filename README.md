@@ -6,7 +6,7 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 [ <img alt="Jakub Bogdański | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/jakub-bogdanski-51b64027b)
 [ <img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/github.svg" />](https://www.linkedin.com/in/jakub-bogdanski-51b64027b)
-[ <img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/gmail.svg" />]
+[ <img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/gmail.svg" />](mailto:bogdanskikuba@gmail.com)
 
 ## My stats
 
