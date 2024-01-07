@@ -4,4 +4,16 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 ## Let's stay in touch:
 
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
+ [<img alt="Jakub Bogdański | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
+ [<img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][website]
+ [<img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][mail]
+
+## My stats
+ <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BogdanskiJ&show_icons=true&theme=transparent" />
+ 
+
+
+
+[linkedin]: www.linkedin.com/in/jakub-bogdanski-51b64027b
+[website]: www.linkedin.com/in/jakub-bogdanski-51b64027b
+[mail]: bogdanskikuba@gmail.com
