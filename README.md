@@ -2,7 +2,7 @@
 
 I am a passionate Front-end Developer. I'm always looking for opportunities to learn more. I am involved in open-source projects. My experience includes creating responsive e-commerce websites, web applications and all types of websites. If you have any problem with your website, please email me and I will try to help.
 
-### My languages and tools:
+## My languages and tools:
 
 <p> 
   <a href="https://reactjs.org/" style="text-decoration: none ;" target="_blank" rel="noreferrer"> 
@@ -24,6 +24,9 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
   </a>
 </p>
+
+##   Samples of my work:
+[![BogdanskiJ](https://img.shields.io/badge/-My%20portfolio-000000)](https://github.com/BogdanskiJ/MyPortfolio)
 
 ## Let's stay in touch:
 
