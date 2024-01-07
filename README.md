@@ -4,16 +4,10 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 ## Let's stay in touch:
 
- [<img alt="Jakub Bogdański | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
- [<img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][website]
- [<img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][mail]
+[ <img alt="Jakub Bogdański | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][www.linkedin.com/in/jakub-bogdanski-51b64027b]
+[ <img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/github.svg" />][www.linkedin.com/in/jakub-bogdanski-51b64027b]
+[ <img alt="Jakub Bogdański | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/gmail.svg" />][bogdanskikuba@gmail.com]
 
 ## My stats
+
  <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BogdanskiJ&show_icons=true&theme=transparent" />
- 
-
-
-
-[linkedin]: www.linkedin.com/in/jakub-bogdanski-51b64027b
-[website]: www.linkedin.com/in/jakub-bogdanski-51b64027b
-[mail]: bogdanskikuba@gmail.com
