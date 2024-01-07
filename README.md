@@ -4,11 +4,12 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 ### My languages and tools:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" target="_blank" rel="noreferrer" width="30" height="30">](https://reactjs.org/)
+<p >[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" target="_blank" rel="noreferrer" width="30" height="30">](https://reactjs.org/)
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" target="_blank" rel="noreferrer" />](https://redux.js.org)
  
- 
+ </p>
+
  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
