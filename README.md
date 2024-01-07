@@ -3,6 +3,7 @@
 I am a passionate Front-end Developer. I'm always looking for opportunities to learn more. I am involved in open-source projects. My experience includes creating responsive e-commerce websites, web applications and all types of websites. If you have any problem with your website, please email me and I will try to help.
 
 ### My languages and tools:
+[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
 
 <p> 
   <a href="https://reactjs.org/" style="text-decoration: none !important;" target="_blank" rel="noreferrer"> 
