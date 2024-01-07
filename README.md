@@ -27,10 +27,12 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 
 ## Samples of my work:
 
-[![Static Badge](https://img.shields.io/badge/GitHubPages%20-%20My%20Portfolio-blue?style=flat&logo=github)
+[![My Portfolio](https://img.shields.io/badge/GitHubPages%20-%20My%20Portfolio-blue?style=flat&logo=github)
 ](https://github.com/BogdanskiJ/MyPortfolio)
-[![BogdanskiJ](https://img.shields.io/badge/-My%20portfolio-000000)](https://github.com/BogdanskiJ/MyPortfolio)
-[![BogdanskiJ](https://img.shields.io/badge/-My%20portfolio-000000)](https://github.com/BogdanskiJ/MyPortfolio)
+[![GUS Database](https://img.shields.io/badge/GitHubPages%20-%20My%20Portfolio-blue?style=flat&logo=github)](https://bogdanskij.github.io/LocalDataBank/#/jednostki-terytorialne)
+[![AleKubek.pl](https://img.shields.io/badge/AleKubek.pl%20-%20Shoper-red?style=flat&logo=shopify)](https://alekubek.pl/)
+[![Movie Browser](https://img.shields.io/badge/GitHubPages%20-%20My%20Portfolio-blue?style=flat&logo=github)](https://bogdanskij.github.io/movies-browser/#/popular-movies)
+[![16GDH](https://img.shields.io/badge/16GDH%20-%20Wordpress-green?style=flat&logo=wordpres)](https://16gdh.pl/)
 
 ## Let's stay in touch:
 
