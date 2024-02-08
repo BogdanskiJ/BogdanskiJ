@@ -32,7 +32,7 @@ I am a passionate Front-end Developer. I'm always looking for opportunities to l
 [![AleKubek.pl](https://img.shields.io/badge/AleKubek.pl%20-%20Shoper-red?style=flat&logo=shopify)](https://alekubek.pl/)
 [![GUS Database](https://img.shields.io/badge/GHPages%20-%20GUS%20Database-blue?style=flat&logo=github)](https://bogdanskij.github.io/LocalDataBank/#/jednostki-terytorialne)
 [![Rock Paper Scissors](https://img.shields.io/badge/GHPages%20-%20Rock%20Paper%20Scissors-blue?style=flat&logo=github)
-]([https://bogdanskij.github.io/MyPortfolio/](https://bogdanskij.github.io/rock-paper-scissors/))
+](https://bogdanskij.github.io/MyPortfolio/](https://bogdanskij.github.io/rock-paper-scissors/)
 [![Movie Browser](https://img.shields.io/badge/GHPages%20-%20Movie%20Browser-blue?style=flat&logo=github)](https://bogdanskij.github.io/movies-browser/#/popular-movies)
 [![16GDH](https://img.shields.io/badge/16GDH%20-%20Wordpress-green?style=flat&logo=wordpres)](https://16gdh.pl/)
 
